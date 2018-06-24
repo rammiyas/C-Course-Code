@@ -6,7 +6,8 @@ namespace Problem1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("This application will state my name below");
+            Console.WriteLine("Rammiya");
         }
     }
 }
